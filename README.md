@@ -3,6 +3,15 @@ News App is a simple news app 🗞️ which uses NewsAPI to fetch top news headl
 
 ## Screenshots 
 
+**Light Mode**
+
+![Light Mode](https://github.com/mesolly/NewsEra/blob/main/Img/LightMode.png??raw=true)
+
+
+**Dark Mode**
+
+![Dark Mode](https://github.com/mesolly/NewsEra/blob/main/Img/DarkMode.png??raw=true)
+
 ## Run this Project on Local Environment
 After download or clone run `npm install` to install all the dependancies.
 
