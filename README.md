@@ -1,5 +1,5 @@
 # NewsEra
-News App is a simple news app 🗞️ which uses NewsAPI to fetch top news headlines from the API. The main aim of this app is to be a leading example of how to build Modern Android applications for all Android Developers.
+NewsEra is a simple news web app  which uses NewsAPI to fetch top news headlines from the API. 
 
 ## Screenshots 
 
